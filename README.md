@@ -7,7 +7,7 @@
 
 <p align="center"> I am a former Civil Engineer who engineered a transition into the captivating world of DevOps, sprinkling my expertise across diverse environments while embarking on a never-ending quest for professional growth</p>
 
-<h3 align="center"> Conect with me! </h3>
+<h3 align="center"> Connect with me! </h3>
 <p align="center">
 <a href="https://www.linkedin.com/abdullahisheikh-salah" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=navy alt=linkedin style="margin-bottom: 5px;" />
