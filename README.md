@@ -9,7 +9,7 @@
 
 <h3 align="center"> Connect with me! </h3>
 <p align="center">
-<a href="https://www.linkedin.com/abdullahisheikh-salah" target="_blank">
+<a href="https://www.linkedin.com/in/abdullahisheikh-salah" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=navy alt=linkedin style="margin-bottom: 5px;" />
 </a>
 </p>
